@@ -16,5 +16,4 @@ cv2.imshow('Opening', opening)
 cv2.imshow('Closing', closing)
 cv2.imshow('Gradient',gradient)
 
-
 cv2.waitKey(0)
